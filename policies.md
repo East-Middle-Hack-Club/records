@@ -14,3 +14,4 @@ Note: Any person in violation of the following policies/rules, is subject to a s
 8. Members will also be held to the standards and rules of the Sioux City Community School District's Parent/Guardian and Student Handbook of the current school year.
 ## Notes
 1. East Middle School Hack Club encourages reporting of all perceived incidents of discrimination or harassment. It is the policy of East Middle School Hack Club to promptly and thoroughly investigate such reports. East Middle School Hack Club prohibits retaliation against any individual who reports discrimination or harassment or participates in an investigation of such reports.
+2. Policies are subject to change at any time without prior or immediate notice of members and supervisors. To find changes to the policies, please subscribe to the repository which holds the records of the East Middle School Hack Club.
