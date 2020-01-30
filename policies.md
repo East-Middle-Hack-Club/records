@@ -2,7 +2,10 @@
 ###### Policies effective: 10/31/19; Last updated: 1/29/2020
 ## Rules
 Note: Any person in violation of the following policies/rules, is subject to a strike according to the strike system below.
-1. Games are not allowed to be played during club meetings unless otherwise noted by a club administrator at the beginning of the meeting.
+1. Games are not allowed to be played during club meetings unless otherwise noted by a club administrator at the beginning of the meeting. The following games are examples of games not permitted. Requests for other games must be approved by a majority or at least 50% of the club administration.
+  1. Minecraft
+  2. Cool Math Games
+  3. Hooda Math
 2. Students who are failing (60% or below) one or more classes shall be asked not to attend club meetings until the failing grade as been raised above 60%
 3. Members are required to treat other members and club administrators with respect inside and outside of club meetings. 
   1. Examples of disrespect are the following but not limited to, lying, bullying, harrasment, hazing, name calling, physical harm, unwanted physical contact, belittleing, swearing, offensive jokes, critisism, yelling, screaming, rude gesters, verbal abuse, insensitiveness, verbal threats, and intimidation (of any sort). 
