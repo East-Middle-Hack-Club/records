@@ -1,5 +1,5 @@
 # East Middle School Hack Club Member Policies
-###### Policies effective: 10/31/19; Last updated: 1/28/2020
+###### Policies effective: 10/31/19; Last updated: 1/29/2020
 ## Rules
 Note: Any person in violation of the following policies/rules, is subject to a strike according to the strike system below.
 1. Games are not allowed to be played during club meetings unless otherwise noted by a club administrator at the beginning of the meeting.
@@ -14,14 +14,16 @@ Note: Any person in violation of the following policies/rules, is subject to a s
 8. Members will also be held to the standards and rules of the Sioux City Community School District School Board Policies.
 9. Members will also be held to the standards and rules of the Sioux City Community School District's Parent/Guardian and Student Handbook of the current school year.
 ## Strike System/Policy
-###### The following policy should be used in order from step 1 to 4 to handle violations of policies.
+###### The following policy should be used in order from step 1 to 4 to handle violations of policies. Strikes do not expire.
 1. Warning
   * Member will be asked to correct behaviour.
-2. Strike 1
+2. Warning 2
+  * Member will be warned of possible following consequences if behaviors is to corrected.
+3. Strike 1
   * Member will not be allowed to attend the next meeting.
-3. Strike 2
+4. Strike 2
   * Member will not be allowed to attend the following week of meetings.
-4. Strike 3
+5. Strike 3
   * Member will no longer be allowed to attend meetings or club events.
 ## Notes
 1. East Middle School Hack Club encourages reporting of all perceived incidents of discrimination or harassment. It is the policy of East Middle School Hack Club to promptly and thoroughly investigate such reports. East Middle School Hack Club prohibits retaliation against any individual who reports discrimination or harassment or participates in an investigation of such reports.
