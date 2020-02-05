@@ -1,7 +1,7 @@
 # East Middle School Hack Club Member Policies
 ###### Policies effective: 10/31/19; Last updated: 2/5/2020
 ## Rules
-Note: Any person in violation of the following policies/rules, is subject to a strike according to the strike system below.
+Note: Any person in violation of the following policies/rules, is subject to a strike according to the strike system below. 
 1. Games are not allowed to be played during club meetings unless otherwise noted by a club administrator at the beginning of the meeting. The following games are examples of games not permitted. Requests for other games must be approved by a majority or at least 50% of the club administration.
   1. Minecraft
   2. Cool Math Games
@@ -17,6 +17,7 @@ Note: Any person in violation of the following policies/rules, is subject to a s
 8. Members will also be held to the standards and rules of the Sioux City Community School District School Board Policies.
 9. Members will also be held to the standards and rules of the Sioux City Community School District's Parent/Guardian and Student Handbook of the current school year.
 10. Members must be working on club involved activities, practicing coding, working on a coding related project, working on a hardware project, working on a hardware project, or studying hardware, software, or cybersecurity.
+11. Directions and orders given by club administrators shall be taken seriously and must be followed. If a problem is had with a direction from one leader, speak to another club leader/administrator.
 ## Strike System/Policy
 ###### The following policy should be used in order from step 1 to 4 to handle violations of policies. Strikes do not expire.
 1. Warning
@@ -32,3 +33,4 @@ Note: Any person in violation of the following policies/rules, is subject to a s
 ## Notes
 1. East Middle School Hack Club encourages reporting of all perceived incidents of discrimination or harassment. It is the policy of East Middle School Hack Club to promptly and thoroughly investigate such reports. East Middle School Hack Club prohibits retaliation against any individual who reports discrimination or harassment or participates in an investigation of such reports.
 2. Policies are subject to change at any time without prior or immediate notice of members and supervisors. To find changes to the policies, please subscribe to the repository which holds the records of the East Middle School Hack Club.
+3. Punishments, examples, interpretations, and explanations are at the discretion of club leaders and administrators and can be changed at any time without notice of club members.
